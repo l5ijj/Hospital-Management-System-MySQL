@@ -25,6 +25,29 @@ This project demonstrates a healthcare database management system built using My
 - Orthopedics generated the highest revenue (4700 SAR)
 - Dr. Majed achieved the highest revenue among doctors
   
+  ## Database Tables
+
+- Patients
+- Doctors
+- Departments
+- Appointments
+- Billing
+- Insurance
+
+## SQL Concepts Used
+
+- CREATE DATABASE
+- CREATE TABLE
+- PRIMARY KEY
+- FOREIGN KEY
+- INNER JOIN
+- GROUP BY
+- ORDER BY
+- SUM()
+- COUNT()
+- AVG()
+- SQL Views
+
 ## Features
 
 - Patient Management
