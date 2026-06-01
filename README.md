@@ -1,46 +1,47 @@
 # Hospital Management System - MySQL
 
-## Overview
-A complete healthcare database management system built using MySQL.
+Healthcare database management system built using MySQL with patients, doctors, appointments, billing, insurance, and analytics reports.
 
-This project demonstrates database design, relationships, SQL queries, reporting, and healthcare analytics.
+## Project Overview
 
+This project demonstrates a healthcare database management system built using MySQL. The system manages patients, doctors, appointments, billing, insurance providers, and financial analytics reports using SQL queries, joins, aggregate functions, and views.
+
+## Project Statistics
+<img width="1400" height="900" alt="Hospital_Project_Collage" src="https://github.com/user-attachments/assets/1eacd363-26c2-4b6e-a41d-453b71993f45" />
+
+## Revenue by Department
+<img width="482" height="325" alt="‏لقطة الشاشة ١٤٤٧-١٢-١٥ في ٦ ٢٦ ٤٢ ص" src="https://github.com/user-attachments/assets/6bc07a28-68d7-4df8-9508-c1245de45fb4" />
+
+## Doctor Performance Report
+<img width="503" height="338" alt="‏لقطة الشاشة ١٤٤٧-١٢-١٥ في ٦ ٢٦ ٣٥ ص" src="https://github.com/user-attachments/assets/b5663f36-04e1-44d5-a15d-94033a39b439" />
+
+## Key Insights
+
+- Total Patients: 10
+- Total Doctors: 8
+- Total Departments: 8
+- Total Appointments: 15
+- Total Bills: 15
+- Orthopedics generated the highest revenue (4700 SAR)
+- Dr. Majed achieved the highest revenue among doctors
+  
 ## Features
 
 - Patient Management
 - Doctor Management
-- Department Management
 - Appointment Scheduling
 - Billing System
 - Insurance Management
 - Financial Reporting
-
-## Database Tables
-
-1. Patients
-2. Doctors
-3. Departments
-4. Appointments
-5. Billing
-6. Insurance
+- Healthcare Analytics
 
 ## Technologies Used
 
 - MySQL
-- SQL Queries
-- Joins
+- SQL Joins
 - Views
-- Aggregation Functions
+- Aggregate Functions
 - Database Design
-
-## Analytics Included
-
-- Revenue by Department
-- Appointment Statistics
-- Doctor Performance Analysis
-- Financial Reports
-- Average Billing Analysis
-
 ## Author
 
 Khalid Abdullah Refai
